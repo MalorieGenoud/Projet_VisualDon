@@ -1,0 +1,273 @@
+{
+    "name": "Lady Gaga",
+    "children": [
+        {
+            "name": "The Fame",
+            "children": [
+                {
+                    "name": "Just Dance",
+                    "children": [
+                        {
+                            "name": "Featuring Colby O'Donis"
+                        }
+                    ]
+                },
+                {
+                    "name": "LoveGame"
+                },
+                {
+                    "name": "Paparazzi"
+                },
+                {
+                    "name": "Beautiful, Dirty, Rich"
+                },
+                {
+                    "name": "Eh, Eh (Nothing Else I Can Say)"
+                },
+                {
+                    "name": "Poker Face"
+                },
+                {
+                    "name": "The Fame"
+                },
+                {
+                    "name": "Money Honey"
+                },
+                {
+                    "name": "Again Again"
+                },
+                {
+                    "name": "Boys Boys Boys"
+                },
+                {
+                    "name": "Brown Eyes"
+                },
+                {
+                    "name": "Summerboy"
+                }
+            ]
+        },
+        {
+            "name": "THe Fame Monster",
+            "children": [
+                {
+                    "name": "Bad Romance"
+                },
+                {
+                    "name": "Alejandro"
+                },
+                {
+                    "name": "Monster"
+                },
+                {
+                    "name": "Speechless"
+                },
+                {
+                    "name": "Dance in the dark"
+                },
+                {
+                    "name": "Telephone",
+                    "children": [
+                        {
+                            "name": "Featuring Beyoncé"
+                        }
+                    ]
+                },
+                {
+                    "name": "So Happy I Could Die"
+                },
+                {
+                    "name": "Teeth"
+                }
+            ]
+        },
+        {
+            "name": "Born This Way",
+            "children": [
+                {
+                    "name": "Marry the Night"
+                },
+                {
+                    "name": "Born This Way"
+                },
+                {
+                    "name": "Government Hooker"
+                },
+                {
+                    "name": "Judas"
+                },
+                {
+                    "name": "Americano"
+                },
+                {
+                    "name": "Hair"
+                },
+                {
+                    "name": "Scheisse"
+                },
+                {
+                    "name": "Bloody Mary"
+                },
+                {
+                    "name": "Bad Kids"
+                },
+                {
+                    "name": "Highway Unicorn (Road to Love)"
+                },
+                {
+                    "name": "Heavy Metal Lover"
+                },
+                {
+                    "name": "Electric Chapel"
+                },
+                {
+                    "name": "You and I"
+                },
+                {
+                    "name": "The Edge of Glory"
+                }
+            ]
+        },
+        {
+            "name": "Artpop",
+            "children": [
+                {
+                    "name": "Aura"
+                },
+                {
+                    "name": "Venus"
+                },
+                {
+                    "name": "G.U.Y."
+                },
+                {
+                    "name": "Sexxx Dreams"
+                },
+                {
+                    "name": "Jewels N' Drugs",
+                    "children": [
+                        {
+                            "name": "Featuring T.I.,Too Short et Twista"
+                        }
+                    ]
+                },
+                {
+                    "name": "Manicure"
+                },
+                {
+                    "name": "Do What U Want",
+                    "children": [
+                        {
+                            "name": "Featuring R. Kelly"
+                        }
+                    ]
+                },
+                {
+                    "name": "Artpop"
+                },
+                {
+                    "name": "Swine"
+                },
+                {
+                    "name": "Donatella"
+                },
+                {
+                    "name": "Fashion!"
+                },
+                {
+                    "name": "Mary Jane Holland"
+                },
+                {
+                    "name": "Dope"
+                },
+                {
+                    "name": "Gypsy"
+                },
+                {
+                    "name": "Applause"
+                }
+            ]
+        },
+        {
+            "name": "Cheek to Cheek",
+            "children": [
+                {
+                    "name": "Anything Goes"
+                },
+                {
+                    "name": "Cheek to Cheek"
+                },
+                {
+                    "name": "Nature Boy"
+                },
+                {
+                    "name": "I Can't Give You Anything But Love"
+                },
+                {
+                    "name": "I Won't Dance"
+                },
+                {
+                    "name": "Firefly"
+                },
+                {
+                    "name": "Lush Life"
+                },
+                {
+                    "name": "Sophisticated Lady"
+                },
+                {
+                    "name": "Let's Face the Music and Dance"
+                },
+                {
+                    "name": "But Beautiful"
+                },
+                {
+                    "name": "It Don't Mean a Thing (If It Ain't Got That Swing)"
+                }
+            ]
+        },
+        {
+            "name": "Joanne",
+            "children": [
+                {
+                    "name": "Diamond Heart"
+                },
+                {
+                    "name": "A-Yo"
+                },
+                {
+                    "name": "Joanne"
+                },
+                {
+                    "name": "Jogn Wayne"
+                },
+                {
+                    "name": "Danchin' In Circles"
+                },
+                {
+                    "name": "Perfect Illusion"
+                },
+                {
+                    "name": "Million Reasons"
+                },
+                {
+                    "name": "Sinner's Prayer"
+                },
+                {
+                    "name": "Come to Mama"
+                },
+                {
+                    "name": "Hey Girl",
+                    "children": [
+                        {
+                            "name": "Featuring Florence Welch"
+                        }
+                    ]
+                },
+                {
+                    "name": "Angel Down"
+                }
+            ]
+        }
+  ]
+}
