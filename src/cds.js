@@ -4,13 +4,12 @@ import treeData from '../data/cd_ladygaga';
 // Set the dimensions and margins of the diagram
 const margin = {top: 20, right: 90, bottom: 30, left: 90},
     width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
-
+    height = 1000 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 // appends a 'group' element to 'svg'
 // moves the 'group' element to the top left margin
-const svg = d3.select(".tree")
+const svg = d3.select("#graph-cd")
     .append("svg")
     .attr("width", width + margin.right + margin.left)
     .attr("height", height + margin.top + margin.bottom)
@@ -28,7 +27,6 @@ const treemap = d3.tree().size([height, width]);
 const root = d3.hierarchy(treeData, function(d) { return d.children});
 root.x0 = height / 2;
 root.y0 = 0;
-
 
 // Collapse after the second level
 //root.children.forEach(collapse);

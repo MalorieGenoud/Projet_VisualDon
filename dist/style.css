@@ -1,10 +1,45 @@
-body {
-    background-color: white;
-    font: 16px sans-serif;
+/*
+// Template HTML 
+*/
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Raleway", sans-serif
+}
+
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+/* Full height image header */
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  background-image: url("/thumb-1920-489501.jpg");
+  min-height: 100%;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+
+#cd {
+    text-align: center;
+}
+
+/*
+//Graph CD  
+*/
+#graph-cd {
+    background-color: aqua;
+    min-height: 700px;
 }
 
 .node {
   cursor: pointer;
+}
+
+.node text {
+  font: 0.75rem sans-serif;
 }
 
 .node circle {
@@ -13,6 +48,7 @@ body {
     stroke-width: 3px;
 }
 
+<<<<<<< HEAD
 .node text {
     font: 12px sans-serif;
 }
@@ -45,4 +81,10 @@ body {
     text-align: left;
     width: auto;
     height: auto;
+=======
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+>>>>>>> template + graph cd
 }

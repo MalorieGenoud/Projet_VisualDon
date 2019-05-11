@@ -1,7 +1,7 @@
 const d3 = require('d3');
 const topojson = require('topojson');
 import worldMap from '../data/worldMap.json';
-import jsonData from '../data/tournee_etape1.json';
+import jsonData from '../data/meteorite.json';
 
 const w = 960;
 const h = 600;
