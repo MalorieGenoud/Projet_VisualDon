@@ -8,19 +8,19 @@ body {
 }
 
 .node circle {
-  fill: #fff;
-  stroke: steelblue;
-  stroke-width: 2.5px;
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 3px;
 }
 
 .node text {
-  font: 10px sans-serif;
+    font: 12px sans-serif;
 }
 
 .link {
-  fill: none;
-  stroke: #ccc;
-  stroke-width: 1.5px;
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 2px;
 }
 
 .country {

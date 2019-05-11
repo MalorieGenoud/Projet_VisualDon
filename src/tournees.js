@@ -1,5 +1,7 @@
 const d3 = require('d3');
 const topojson = require('topojson');
+import worldMap from '../data/worldMap.json';
+import jsonData from '../data/tournee_etape1.json';
 
 const w = 960;
 const h = 600;
@@ -27,10 +29,7 @@ let tooltip = d3.select('body').append("div")
     .style('pointer-events', 'none')
     .style("opacity", 1);
 
-// First link is the map, second link is the data
-const files = ["https://unpkg.com/world-atlas@1.1.4/world/110m.json", "https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/meteorite-strike-data.json"];
-
-Promise.all(files.map((url) => d3.json(url))).then(function(data) {
+Promise.all([worldMap, jsonData]).then(function(data) {
 
     svg.append("g")
         .attr("class", "country")
@@ -71,3 +70,4 @@ Promise.all(files.map((url) => d3.json(url))).then(function(data) {
                 .style("opacity", 0);
         });
 });
+
