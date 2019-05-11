@@ -1,7 +1,7 @@
 {
   "name": "pwa",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pour la réalisation de ce projet, nous serons deux: Prisca et Malorie.",
   "main": "index.js",
   "scripts": {
     "preview": "live-server dist/",
@@ -39,5 +39,13 @@
     "topojson-client": "^3.0.0",
     "topojson-server": "^3.0.0",
     "topojson-simplify": "^3.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalorieGenoud/Projet_VisualDon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MalorieGenoud/Projet_VisualDon/issues"
+  },
+  "homepage": "https://github.com/MalorieGenoud/Projet_VisualDon#readme"
 }

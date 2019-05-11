@@ -1,0 +1,1797 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.661486,45.638728 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"01.08.2017",
+        "city":"Vancouver",
+        "room":"Rogers Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -113.490927,53.544389 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"03.08.2017",
+        "city":"Edmonton",
+        "room":"Rogers Place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.444291,47.252877 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"05.08.2017",
+        "city":"Tacoma",
+        "room":"Tacoma Dome"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.353131,33.96168 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"08.08.2017",
+        "city":"Inglewood",
+        "room":"The Forum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.353131,33.96168 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"09.08.2017",
+        "city":"Inglewood",
+        "room":"The Forum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -115.13983,36.169941 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"11.08.2017",
+        "city":"Las Vegas",
+        "room":"T-Mobile Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.407437,37.787994 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"13.08.2017",
+        "city":"San Francisco",
+        "room":"AT&T Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -121.4944,38.581572 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"15.08.2017",
+        "city":"Sacramento",
+        "room":"Golden 1 Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -95.997988,41.252363 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"19.08.2017",
+        "city":"Omaha",
+        "room":"CenturyLink Center Omaha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -93.089958,44.953703 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"21.08.2017",
+        "city":"Saint Paul",
+        "room":"Xcel Energy Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -81.694361,41.49932 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"23.08.2017",
+        "city":"Cleveland",
+        "room":"Quicken Loans Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -87.629798,41.878114 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"25.08.2017",
+        "city":"Chicago",
+        "room":"Wrigley Field"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"28.08.2017",
+        "city":"New York",
+        "room":"Citi Field"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"29.08.2017",
+        "city":"New York",
+        "room":"Citi Field"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -71.05888,42.360082 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"01.09.2017",
+        "city":"Boston",
+        "room":"Fenway Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -71.05888,42.360082 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"02.09.2017",
+        "city":"Boston",
+        "room":"Fenway Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79.383184,43.653226 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"06.09.2017",
+        "city":"Toronto",
+        "room":"Air Canada Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79.383184,43.653226 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"07.09.2017",
+        "city":"Toronto",
+        "room":"Air Canada Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -75.165222,39.952584 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"10.09.2017",
+        "city":"Philadelphie",
+        "room":"Wells Fargo Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -75.165222,39.952584 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":" Étape 1 - Amérique du Nord",
+        "date":"11.09.2017",
+        "city":"Philadelphie",
+        "room":"Wells Fargo Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.567256,45.501689 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"03.11.2017",
+        "city":"Montréal",
+        "room":"Centre Bell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.158068,39.768403 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"05.11.2017",
+        "city":"Indianapolis",
+        "room":"Bankers Life Fieldhouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -83.045754,42.331427 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"07.11.2017",
+        "city":"Détroit",
+        "room":"Little Caesars Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -72.110095,41.431691 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"09.11.2017",
+        "city":"Uncasville",
+        "room":"Mohegan Sun Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -72.110095,41.431691 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"11.11.2017",
+        "city":"Uncasville",
+        "room":"Mohegan Sun Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -85.758456,38.252665 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"13.11.2017",
+        "city":"Louisville",
+        "room":"KFC Yum! Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -94.578567,39.099727 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"15.11.2017",
+        "city":"Kansas City",
+        "room":"Sprint Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -90.199404,38.627003 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"16.11.2017",
+        "city":"Saint-Louis",
+        "room":"Scottrade Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -77.036871,38.907192 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"19.11.2017",
+        "city":"Washington D.C",
+        "room":"Verizon Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79.995886,40.440625 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"20.11.2017",
+        "city":"Pittsburgh",
+        "room":"PPG Paints Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -84.387982,33.748995 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"28.11.2017",
+        "city":"Atlanta",
+        "room":"Philips Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.19179,25.76168 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"30.11.2017",
+        "city":"Miami",
+        "room":"American Airlines Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -82.457178,27.950575 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"01.12.2017",
+        "city":"Tampa",
+        "room":"Amalie Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -95.369803,29.760427 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"03.12.2017",
+        "city":"Houston",
+        "room":"Toyota Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.743061,30.267153 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"05.12.2017",
+        "city":"Austin",
+        "room":"Frank Erwin Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -96.796988,32.776664 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"08.12.2017",
+        "city":"Dallas",
+        "room":"American Airlines Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.504761,35.473868 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"09.12.2017",
+        "city":"Oklahoma City",
+        "room":"Chesapeake Energy Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 104.990251,39.739236 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"12.12.2017",
+        "city":"Denver",
+        "room":"Pepsi Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -111.891047,40.760779 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"14.12.2017",
+        "city":"Salt Lake City",
+        "room":"Vivint Smart Home Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -115.13983,36.169941 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"16.12.2017",
+        "city":"Las Vegas",
+        "room":"T-Mobile Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.353131,33.96168 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 3 - Amérique du Nord",
+        "date":"18.12.2017",
+        "city":"Inglewood",
+        "room":"The Forum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 2.173403,41.385064 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 4 - Europe",
+        "date":"14.01.2018",
+        "city":"Barcelone",
+        "room":"Palau Sant Jordi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 2.173403,41.385064 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 4 - Europe",
+        "date":"16.01.2018",
+        "city":"",
+        "room":""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 9.185924,45.465422 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 4 - Europe",
+        "date":"18.01.2018",
+        "city":"Milan",
+        "room":"Mediolanum Forum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 4.895168,52.370216 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 4 - Europe",
+        "date":"20.01.2018",
+        "city":"Amsterdam",
+        "room":"Ziggo Dome"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 4.402464,51.219448 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 4 - Europe",
+        "date":"22.01.2018",
+        "city":"Anvers",
+        "room":"Sportpaleis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 9.993682,53.551085 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 4 - Europe",
+        "date":"24.01.2018",
+        "city":"Hambourg",
+        "room":"Barclaycard Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.80249,33.520661 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 4 - Europe",
+        "date":"31.01.2018",
+        "city":"Birmingham",
+        "room":"Arena Birmingham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.80249,33.520661 ]
+      },
+      "properties": {
+        "tour":"JOANNE WORLD TOUR",
+        "step":"Étape 4 - Europe",
+        "date":"01.02.2018",
+        "city":"",
+        "room":"Genting Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.137317,26.122439 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"04.05.2014",
+        "city":"Fort Lauderdale",
+        "room":"BB&T Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -84.387982,33.748995 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"06.05.2014",
+        "city":"Atlanta",
+        "room":"Philips Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79.995886,40.440625 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"08.05.2014",
+        "city":"Pittsburgh",
+        "room":"Consol Energy Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -72.110095,41.431691 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"10.05.2014",
+        "city":"Uncasville",
+        "room":"Mohegan Sun Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -77.036871,38.907192 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"12.05.2014",
+        "city":"Washington D.C",
+        "room":"Verizon Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"13.05.2014",
+        "city":"New York",
+        "room":"Madison Square Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -75.165222,39.952584 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"15.05.2014",
+        "city":"Philadelphie",
+        "room":"Wells Fargo Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -83.045754,42.331427 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"17.05.2014",
+        "city":"Détroit",
+        "room":"Joe Louis Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -81.694361,41.49932 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"18.05.2014",
+        "city":"Cleveland",
+        "room":"Quicken Loans Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -93.089958,44.953703 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"20.05.2014",
+        "city":"Saint Paul",
+        "room":"Xcel Energy Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.137494,49.899754 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"22.05.2014",
+        "city":"Winnipeg",
+        "room":"MTS Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -114.070846,51.048615 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"25.05.2014",
+        "city":"Calgary",
+        "room":"Scotiabank Saddledome"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -113.490927,53.544389 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"26.05.2014",
+        "city":"Edmonton",
+        "room":"Rexall Place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -117.1925354,32.71451081 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"02.06.2014",
+        "city":"San Diego",
+        "room":"Viejas Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -121.886329,37.338208 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"03.06.2014",
+        "city":"San Juan",
+        "room":"SAP Center at San Jose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -87.906474,43.038902 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"26.06.2014",
+        "city":"Milwaukee",
+        "room":"Marcus Amphitheater(festival)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.422927,39.364283 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"28.06.2014",
+        "city":"Atlantic City",
+        "room":"Boardwalk Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -71.05888,42.360082 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"30.06.2014",
+        "city":"Boston",
+        "room":"TD Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.567256,45.501689 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"02.07.2014",
+        "city":"Montréal",
+        "room":"Centre Bell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.549136,52.939916 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"04.07.2014",
+        "city":"Québec",
+        "room":"Plaines d'Abraham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -75.697193,45.42153 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"05.07.2014",
+        "city":"Ottawa",
+        "room":"LeBreton Flats(festival)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -78.878369,42.886447 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"07.07.2014",
+        "city":"Buffalo",
+        "room":"First Niagara Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79.383184,43.653226 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"09.07.2014",
+        "city":"Toronto",
+        "room":"Centre Air Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -87.629798,41.878114 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"11.07.2014",
+        "city":"Chicago",
+        "room":"United Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -98.493628,29.424122 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"14.07.2014",
+        "city":"San Antonio",
+        "room":"AT&T Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -95.369803,29.760427 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"16.07.2014",
+        "city":"Houston",
+        "room":"Toyota Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -96.796988,32.776664 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"17.07.2014",
+        "city":"Dallas",
+        "room":"American Airlines Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -115.13983,36.169941 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"19.07.2014",
+        "city":"Las Vegas",
+        "room":"MGM Grand Garden Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.2499695,34.04583233 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"21.07.2014",
+        "city":"Los Angeles",
+        "room":"Staples Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.2499695,34.04583233 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"22.07.2014",
+        "city":"Los Angeles",
+        "room":"Staples Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -84.387982,33.748995 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"25.07.2014",
+        "city":"Atlanta",
+        "room":"Parc du Centenaire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -112.074037,33.448377 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"30.07.2014",
+        "city":"Phoenix",
+        "room":"US Airways Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -115.13983,36.169941 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"01.08.2014",
+        "city":"Las Vegas",
+        "room":"MGM Grand Garden Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -119.939903,-119.939903 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"02.08.2014",
+        "city":"Stateline",
+        "room":"Harveys Lake Tahoe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -111.891047,40.760779 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"04.08.2014",
+        "city":"Salt Lake City",
+        "room":"EnergySolutions Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 104.990251,39.739236 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"06.08.2014",
+        "city":"Denver",
+        "room":"Pepsi Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.3320708,47.6062095 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"08.08.2014",
+        "city":"Seattle",
+        "room":"KeyArena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.661486,45.638728 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 1 - Amérique du Nord",
+        "date":"09.08.2014",
+        "city":"Vancouver",
+        "room":"Rogers Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 139.769017,35.6804 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 2 - Asie",
+        "date":"13.08.2014",
+        "city":"Tokyo",
+        "room":"Chiba Marine Stadium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 139.769017,35.6804 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 2 - Asie",
+        "date":"14.08.2014",
+        "city":"Tokyo",
+        "room":"Chiba Marine Stadium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 126.977969,37.566535 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 2 - Asie",
+        "date":"16.08.2014",
+        "city":"Séoul",
+        "room":"Stade olympique de Séoul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 115.857047,-31.953513 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 3 - Océanie",
+        "date":"20.08.2014",
+        "city":"Perth",
+        "room":"Perth Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.608109,28.083627 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 3 - Océanie",
+        "date":"23.08.2014",
+        "city":"Melbourne",
+        "room":"Rod Laver Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.608109,28.083627 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 3 - Océanie",
+        "date":"24.08.2014",
+        "city":"Melbourne",
+        "room":"Rod Laver Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 153.023449,-27.471011 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 3 - Océanie",
+        "date":"26.08.2014",
+        "city":"Brisbane",
+        "room":"Brisbane Entertainment Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20699,-33.867487 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 3 - Océanie",
+        "date":"30.08.2014",
+        "city":"Sydney",
+        "room":"Allphones Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20699,-33.867487 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 3 - Océanie",
+        "date":"31.08.2014",
+        "city":"Sydney",
+        "room":"Allphones Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 55.270783,25.204849 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 4 - Moyen-Orient",
+        "date":"10.09.2014",
+        "city":"Dubaï",
+        "room":"Meydan Racecourse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 34.781768,32.0853 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 4 - Moyen-Orient",
+        "date":"13.09.2014",
+        "city":"Tel Aviv",
+        "room":"Hayarkon Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 28.97696,41.00527 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"16.09.2014",
+        "city":"Istanbul",
+        "room":"ITÜ Stadium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 23.47125,37.814011 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"19.09.2014",
+        "city":"Athènes",
+        "room":"Stade olympique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 4.402464,51.219448 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"23.09.2014",
+        "city":"Anvers",
+        "room":"Sportpaleis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 4.895168,52.370216 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"24.09.2014",
+        "city":"Amsterdam",
+        "room":"Ziggo Dome"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 8.967322,56.138557 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"27.09.2014",
+        "city":"Herning",
+        "room":"Jyske Bank Boxen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 10.752245,59.913869 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"29.09.2014",
+        "city":"Oslo",
+        "room":"Telenor Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 18.068581,59.329324 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"30.09.2014",
+        "city":"Stockholm",
+        "room":"Ericsson Globe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 9.993682,53.551085 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"03.10.2014",
+        "city":"Hambourg",
+        "room":"O2 World Hamburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 14.4378,50.075538 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"05.10.2014",
+        "city":"Prague",
+        "room":"O2 Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 6.960279,50.937531 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"07.10.2014",
+        "city":"Cologne",
+        "room":"Lanxess Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 13.404954,52.520007 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"09.10.2014",
+        "city":"Berlin",
+        "room":"O2 World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.80249,33.520661 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"15.10.2014",
+        "city":"Birmingham",
+        "room":"National Indoor Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -6.26031,53.349805 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"17.10.2014",
+        "city":"Dublin",
+        "room":"3Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -4.251806,55.864237 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"19.10.2014",
+        "city":"Glasgow",
+        "room":"The SSE Hydro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -2.242631,53.480759 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"21.10.2014",
+        "city":"Manchester",
+        "room":"Manchester Evening News Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -0.127758,51.507351 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"23.10.2014",
+        "city":"Londres",
+        "room":"O2 Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -0.127758,51.507351 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"25.10.2014",
+        "city":"Londres",
+        "room":"O2 Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -0.127758,51.507351 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"26.10.2014",
+        "city":"Londres",
+        "room":"O2 Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 2.352222,48.856614 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"30.10.2014",
+        "city":"Paris",
+        "room":"Zénith de Paris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 2.352222,48.856614 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"31.10.2014",
+        "city":"Paris",
+        "room":"Zénith de Paris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 16.373819,48.208174 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"02.11.2014",
+        "city":"Vienne",
+        "room":"Wiener Stadthalle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 9.185924,45.465422 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"04.11.2014",
+        "city":"Milan",
+        "room":"Mediolanum Forum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 8.539183,47.36865 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"06.11.2014",
+        "city":"Zürich",
+        "room":"Hallenstadion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 2.173403,41.385064 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"08.11.2014",
+        "city":"Barcelone",
+        "room":"Palau Sant Jordi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -9.139337,38.722252 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"10.11.2014",
+        "city":"Lisbonne",
+        "room":"MEO Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.80249,33.520661 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"13.11.2014",
+        "city":"Birmingham",
+        "room":"National Indoor Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -4.251806,55.864237 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"16.11.2014",
+        "city":"Glasgow",
+        "room":"The SSE Hydro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -1.470085,53.381129 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"20.11.2014",
+        "city":"Sheffield",
+        "room":"Motorpoint Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -1.61778,54.978252 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"22.11.2014",
+        "city":"Newcastle",
+        "room":"Metro Radio Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 2.352222,48.856614 ]
+      },
+      "properties": {
+        "tour":"THE ARTPOP BALL",
+        "step":"Étape 5 - Europe",
+        "date":"24.11.2014",
+        "city":"Paris",
+        "room":"Bercy Arena"
+      }
+    }
+  ]
+}

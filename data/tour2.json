@@ -1,0 +1,2805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.567256,45.501689 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"27.11.2009",
+        "city":"Montréal",
+        "room":"Centre Bell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79.383184,43.653226 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"28.11.2009",
+        "city":"Toronto",
+        "room":"Air Canada Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -75.697193,45.42153 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"29.11.2009",
+        "city":"Ottawa",
+        "room":"Scotiabank Place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -71.05888,42.360082 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"01.12.2009",
+        "city":"Boston",
+        "room":"Wang Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -71.05888,42.360082 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"02.12.2009",
+        "city":"Boston",
+        "room":"Wang Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -0.158826,51.551706 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"03.12.2009",
+        "city":"Camden",
+        "room":"Susquehanna Bank Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.661486,45.638728 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"09.12.2009",
+        "city":"Vancouver",
+        "room":"Queen Elizabeth Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.661486,45.638728 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"10.12.2009",
+        "city":"Vancouver",
+        "room":"Queen Elizabeth Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.661486,45.638728 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"11.12.2009",
+        "city":"Vancouver",
+        "room":"Queen Elizabeth Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.407437,37.787994 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"13.12.2009",
+        "city":"San Francisco",
+        "room":"Bill Graham Civic Auditorium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.407437,37.787994 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"14.12.2009",
+        "city":"San Francisco",
+        "room":"Bill Graham Civic Auditorium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -115.13983,36.169941 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"17.12.2009",
+        "city":"Las Vegas",
+        "room":"Pearl Concert Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -115.13983,36.169941 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"18.12.2009",
+        "city":"Las Vegas",
+        "room":"Pearl Concert Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -117.1925354,32.71451081 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"19.12.2009",
+        "city":"San Diego",
+        "room":"San Diego sports arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.2499695,34.04583233 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"21.12.2009",
+        "city":"Los Angeles",
+        "room":"Nokia Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.2499695,34.04583233 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"22.12.2009",
+        "city":"Los Angeles",
+        "room":"Nokia Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.2499695,34.04583233 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"23.12.2009",
+        "city":"Los Angeles",
+        "room":"Nokia Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -90.071532,29.951066 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"27.12.2009",
+        "city":"New Orleans",
+        "room":"UNO Lakefront Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -84.387982,33.748995 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"28.12.2009",
+        "city":"Atlanta",
+        "room":"Fox Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -84.387982,33.748995 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"29.12.2009",
+        "city":"Atlanta",
+        "room":"Fox Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.19179,25.76168 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"31.12.2009",
+        "city":"Miami",
+        "room":"James L Knight Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.19179,25.76168 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"02.01.2010",
+        "city":"Miami",
+        "room":"James L Knight Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -81.379237,28.538335 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"03.01.2010",
+        "city":"Orlando",
+        "room":"Hard Rock Live"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -90.199404,38.627003 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"07.01.2010",
+        "city":"Saint-Louis",
+        "room":"Fox Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -87.629798,41.878114 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"08.01.2010",
+        "city":"Chicago",
+        "room":"Rosemont Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -87.629798,41.878114 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"09.01.2010",
+        "city":"Chicago",
+        "room":"Rosemont Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -87.629798,41.878114 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"10.01.2010",
+        "city":"Chicago",
+        "room":"Rosemont Theater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -83.045754,42.331427 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"12.01.2010",
+        "city":"Détroit",
+        "room":"Joe Louis Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -83.045754,42.331427 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"13.01.2010",
+        "city":"Détroit",
+        "room":"Joe Louis Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"20.01.2010",
+        "city":"New York",
+        "room":"Radio City Music Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"21.01.2010",
+        "city":"New York",
+        "room":"Radio City Music Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"23.01.2010",
+        "city":"New York",
+        "room":"Radio City Music Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"24.01.2010",
+        "city":"New York",
+        "room":"Radio City Music Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.908066,40.425869 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 1 - Amérique du Nord\n",
+        "date":"26.01.2010",
+        "city":"West Lafayette",
+        "room":"Edward C. Elliott Hall of Music"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -2.242631,53.480759 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 2 - Europe",
+        "date":"18.02.2010",
+        "city":"Manchester",
+        "room":"MEN Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -6.26031,53.349805 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 2 - Europe",
+        "date":"20.02.2010",
+        "city":"Dublin",
+        "room":"O2 Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -6.26031,53.349805 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 2 - Europe",
+        "date":"21.02.2010",
+        "city":"Dublin",
+        "room":"O2 Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -5.93012,54.597285 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 2 - Europe",
+        "date":"22.02.2010",
+        "city":"Belfast",
+        "room":"Odyssey Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -2.991573,53.408371 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 2 - Europe",
+        "date":"24.02.2010",
+        "city":"Liverpool",
+        "room":"Echo Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -0.127758,51.507351 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 2 - Europe",
+        "date":"26.02.2010",
+        "city":"Londres",
+        "room":"O2 Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -0.127758,51.507351 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 2 - Europe",
+        "date":"27.02.2010",
+        "city":"Londres",
+        "room":"O2 Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -4.251806,55.864237 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 2 - Europe",
+        "date":"01.03.2010",
+        "city":"Glasgow",
+        "room":"SCECC Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -3.17909,51.481581 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 2 - Europe",
+        "date":"03.03.2010",
+        "city":"Cardiff",
+        "room":"International Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -1.61778,54.978252 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 2 - Europe",
+        "date":"04.03.2010",
+        "city":"Newcastle",
+        "room":"Metro Radio Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.80249,33.520661 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 2 - Europe",
+        "date":"05.03.2010",
+        "city":"Birmingham",
+        "room":"LG Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 174.763331,-36.84846 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"13.03.2010",
+        "city":"Auckland",
+        "room":"Vector Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 174.763331,-36.84846 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"14.03.2010",
+        "city":"Auckland",
+        "room":"Vector Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20699,-33.867487 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"17.03.2010",
+        "city":"Sydney",
+        "room":"Sydney Entertainment Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20699,-33.867487 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"18.03.2010",
+        "city":"Sydney",
+        "room":"Sydney Entertainment Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -1.61778,54.978252 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"20.03.2010",
+        "city":"Newcastle",
+        "room":"Newcastle Entertainment Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.608109,28.083627 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"23.03.2010",
+        "city":"Melbourne",
+        "room":"Rod Laver Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.608109,28.083627 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"24.03.2010",
+        "city":"Melbourne",
+        "room":"Rod Laver Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 153.023449,-27.471011 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"26.03.2010",
+        "city":"Brisbane",
+        "room":"Brisbane Entertainment Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 153.023449,-27.471011 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"27.03.2010",
+        "city":"Brisbane",
+        "room":"Brisbane Entertainment Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 149.128684,-35.282 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"29.03.2010",
+        "city":"Canberra",
+        "room":"AIS Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 138.600746,-34.928499 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"03.04.2010",
+        "city":"Adelaide",
+        "room":"Adelaide Entertainment Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 150.893149,-34.425073 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"05.04.2010",
+        "city":"Wollongong",
+        "room":"Wollongong Entertainment Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20699,-33.867487 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"07.04.2010",
+        "city":"Sydney",
+        "room":"Sydney Entertainment Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.608109,28.083627 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"09.04.2010",
+        "city":"Melbourne",
+        "room":"Rod Laver Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 135.195511,34.690083 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 4 - Asie",
+        "date":"14.04.2010",
+        "city":"Kōbe",
+        "room":"World Memorial Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 135.195511,34.690083 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 4 - Asie",
+        "date":"15.04.2010",
+        "city":"Kōbe",
+        "room":"World Memorial Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 139.638026,35.443708 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 4 - Asie",
+        "date":"17.04.2010",
+        "city":"Yokohama",
+        "room":"Yokohama Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 139.638026,35.443708 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 4 - Asie",
+        "date":"18.04.2010",
+        "city":"Yokohama",
+        "room":"Yokohama Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 18.068581,59.329324 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"07.05.2010",
+        "city":"Stockholm",
+        "room":"Globe Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 18.068581,59.329324 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"08.05.2010",
+        "city":"Stockholm",
+        "room":"Globe Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 9.993682,53.551085 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"10.05.2010",
+        "city":"Hambourg",
+        "room":"ColorLine Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 13.404954,52.520007 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"11.05.2010",
+        "city":"Berlin",
+        "room":"O2 Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 5.89873,51.985103 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"15.05.2010",
+        "city":"Arnhem",
+        "room":"Gelredome"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 4.402464,51.219448 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"17.05.2010",
+        "city":"Anvers",
+        "room":"Sportpaleis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 4.402464,51.219448 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"18.05.2010",
+        "city":"Anvers",
+        "room":"Sportpaleis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 2.352222,48.856614 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"21.05.2010",
+        "city":"Paris",
+        "room":"Bercy Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 2.352222,48.856614 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"22.05.2010",
+        "city":"Paris",
+        "room":"Bercy Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 6.863777,51.496334 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"24.05.2010",
+        "city":"Oberhausen",
+        "room":"König Pilsener Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 7.752111,48.573405 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"25.05.2010",
+        "city":"Strasbourg",
+        "room":"Zénith de Strasbourg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -1.158109,52.954783 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"27.05.2010",
+        "city":"Nottingham",
+        "room":"Capital FM Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.80249,33.520661 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"28.05.2010",
+        "city":"Birmingham",
+        "room":"LG Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -0.127758,51.507351 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"30.05.2010",
+        "city":"Londres",
+        "room":"O2 Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -0.127758,51.507351 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"31.05.2010",
+        "city":"Londres",
+        "room":"O2 Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -2.242631,53.480759 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"02.06.2010",
+        "city":"Manchester",
+        "room":"MEN Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -2.242631,53.480759 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"03.06.2010",
+        "city":"Manchester",
+        "room":"MEN Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -1.470085,53.381129 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 5 - Europe",
+        "date":"04.06.2010",
+        "city":"Sheffield",
+        "room":"Motorpoint Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.567256,45.501689 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"28.06.2010",
+        "city":"Montréal",
+        "room":"Centre Bell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -71.05888,42.360082 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"01.07.2010",
+        "city":"Boston",
+        "room":"TD Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -71.05888,42.360082 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"02.07.2010",
+        "city":"Boston",
+        "room":"TD Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.422927,39.364283 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"04.07.2010",
+        "city":"Atlantic City",
+        "room":"Boardwalk Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"06.07.2010",
+        "city":"New York",
+        "room":"Madison Square Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"07.07.2010",
+        "city":"New York",
+        "room":"Madison Square Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"09.07.2010",
+        "city":"New York",
+        "room":"Madison Square Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79.383184,43.653226 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"11.07.2010",
+        "city":"Toronto",
+        "room":"Air Canada Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79.383184,43.653226 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"12.07.2010",
+        "city":"Toronto",
+        "room":"Air Canada Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -81.694361,41.49932 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"14.07.2010",
+        "city":"Cleveland",
+        "room":"Quicken Loans Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.158068,39.768403 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"15.07.2010",
+        "city":"Indianapolis",
+        "room":"Conseco Fieldhouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -90.199404,38.627003 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"17.07.2010",
+        "city":"Saint-Louis",
+        "room":"Scottrade Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.504761,35.473868 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"20.07.2010",
+        "city":"Oklahoma",
+        "room":"Ford Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -96.796988,32.776664 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"22.07.2010",
+        "city":"Dallas",
+        "room":"American Airlines Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -96.796988,32.776664 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"23.07.2010",
+        "city":"Dallas",
+        "room":"American Airlines Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -95.369803,29.760427 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"25.07.2010",
+        "city":"Houston",
+        "room":"Toyota Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -95.369803,29.760427 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"26.07.2010",
+        "city":"Houston",
+        "room":"Toyota Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 104.990251,39.739236 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"28.07.2010",
+        "city":"Denver",
+        "room":"Pepsi Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -112.074037,33.448377 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"31.07.2010",
+        "city":"Phoenix",
+        "room":"US Airways Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -94.578567,39.099727 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"03.08.2010",
+        "city":"Kansas City",
+        "room":"Sprint Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -87.629798,41.878114 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"06.08.2010",
+        "city":"Chicago",
+        "room":"Grant Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.2499695,34.04583233 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"11.08.2010",
+        "city":"Los Angeles",
+        "room":"Staples Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.2499695,34.04583233 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"12.08.2010",
+        "city":"Los Angeles",
+        "room":"Staples Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -115.13983,36.169941 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"13.08.2010",
+        "city":"Las Vegas",
+        "room":"MGM Grand Garden Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -121.886329,37.338208 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"16.08.2010",
+        "city":"San José",
+        "room":"HP Pavilion At San Jose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -121.886329,37.338208 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"17.08.2010",
+        "city":"San José",
+        "room":"HP Pavilion At San Jose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.676482,45.523062 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"19.08.2010",
+        "city":"Portland",
+        "room":"Rose Garden Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.444291,47.252877 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"21.08.2010",
+        "city":"Tacoma",
+        "room":"Tacoma Dome"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.661486,45.638728 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"23.08.2010",
+        "city":"Vancouver",
+        "room":"General Motors Place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.661486,45.638728 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"24.08.2010",
+        "city":"Vancouver",
+        "room":"General Motors Place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -113.490927,53.544389 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"26.08.2010",
+        "city":"Edmonton",
+        "room":"Rexall Place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -113.490927,53.544389 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"27.08.2010",
+        "city":"Edmonton",
+        "room":"Rexall Place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -93.089958,44.953703 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"30.08.2010",
+        "city":"Saint Paul",
+        "room":"Xcel Energy Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -93.089958,44.953703 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"31.08.2010",
+        "city":"Saint Paul",
+        "room":"Xcel Energy Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -87.906474,43.038902 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"02.09.2010",
+        "city":"Milwaukee",
+        "room":"Bradley Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -83.045754,42.331427 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"04.09.2010",
+        "city":"Détroit",
+        "room":"The Palace of Auburn Hills"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79.995886,40.440625 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"05.09.2010",
+        "city":"Pittsburgh",
+        "room":"Consol Energy Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -77.036871,38.907192 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"07.09.2010",
+        "city":"Washington D.C",
+        "room":"Verizon Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -78.476678,38.029306 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"08.09.2010",
+        "city":"Charlottesville",
+        "room":"John Paul Jones Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -75.165222,39.952584 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"14.09.2010",
+        "city":"Philadelphie",
+        "room":"Wachovia Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -75.165222,39.952584 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"15.09.2010",
+        "city":"Philadelphie",
+        "room":"Wachovia Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -72.685093,41.763711 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"16.09.2010",
+        "city":"Hartford",
+        "room":"XL Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.843127,35.227087 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"18.09.2010",
+        "city":"Charlotte",
+        "room":"Time Warner Cable Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -78.638179,35.77959 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 6 - Amérique du Nord",
+        "date":"19.09.2010",
+        "city":"Raleigh",
+        "room":"RBC Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 24.941025,60.173324 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"13.10.2010",
+        "city":"Helsinki",
+        "room":"Hartwall Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 24.941025,60.173324 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"14.10.2010",
+        "city":"Helsinki",
+        "room":"Hartwall Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 10.752245,59.913869 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"16.10.2010",
+        "city":"Oslo",
+        "room":"Oslo Spektrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 10.752245,59.913869 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"17.10.2010",
+        "city":"Oslo",
+        "room":"Oslo Spektrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 8.967322,56.138557 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"20.10.2010",
+        "city":"Herning",
+        "room":"Herning Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -6.26031,53.349805 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"26.10.2010",
+        "city":"Dublin",
+        "room":"O2 Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -6.26031,53.349805 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"27.10.2010",
+        "city":"Dublin",
+        "room":"O2 Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -6.26031,53.349805 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"29.10.2010",
+        "city":"Dublin",
+        "room":"O2 Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -5.93012,54.597285 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"30.10.2010",
+        "city":"Belfast",
+        "room":"Odyssey Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -5.93012,54.597285 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"01.11.2010",
+        "city":"Belfast",
+        "room":"Odyssey Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -5.93012,54.597285 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"02.11.2010",
+        "city":"Belfast",
+        "room":"Odyssey Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 15.981919,45.815011 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"05.11.2010",
+        "city":"Zagreb",
+        "room":"Zagreb Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 19.040235,47.497912 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"07.11.2010",
+        "city":"Budapest",
+        "room":"Papp László Budapest Sportaréna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 7.686857,45.070312 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"09.11.2010",
+        "city":"Turin",
+        "room":"Palaolimpico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 16.373819,48.208174 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"11.11.2010",
+        "city":"Vienne",
+        "room":"Wiener Stadthalle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 8.539183,47.36865 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"14.11.2010",
+        "city":"Zürich",
+        "room":"Hallenstadion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 8.539183,47.36865 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"15.11.2010",
+        "city":"Zürich",
+        "room":"Hallenstadion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 14.4378,50.075538 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"17.11.2010",
+        "city":"Prague",
+        "room":"O2 Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 13.003822,55.604981 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"19.11.2010",
+        "city":"Malmö",
+        "room":"Malmö Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 1.444209,43.604652 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"20.11.2010",
+        "city":"Toulouse",
+        "room":"Zenith de Toulouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 1.444209,43.604652 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"23.11.2010",
+        "city":"Toulouse",
+        "room":"Zenith de Toulouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 18.646638,54.352025 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"26.11.2010",
+        "city":"Gdansk",
+        "room":"Gdansk Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 4.477733,51.92442 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"29.11.2010",
+        "city":"Rotterdam",
+        "room":"The Ahoy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 4.477733,51.92442 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"30.11.2010",
+        "city":"Rotterdam",
+        "room":"The Ahoy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 4.835659,45.764043 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"02.12.2010",
+        "city":"Lyon",
+        "room":"Halle Tony Garnier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 9.185924,45.465422 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"04.12.2010",
+        "city":"Milan",
+        "room":"Mediolanum Forum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 9.185924,45.465422 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"05.12.2010",
+        "city":"Milan",
+        "room":"Mediolanum Forum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 2.173403,41.385064 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"07.12.2010",
+        "city":"Barcelone",
+        "room":"Palau Sant Jordi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -9.139337,38.722252 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"10.12.2010",
+        "city":"Lisbonne",
+        "room":"Pavilhão Atlântico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -3.70379,40.416775 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"12.12.2010",
+        "city":"Madrid",
+        "room":"Palacio de Deportes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -0.127758,51.507351 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"16.12.2010",
+        "city":"Londres",
+        "room":"Millenium Dome"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -0.127758,51.507351 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"17.12.2010",
+        "city":"Londres",
+        "room":"Millenium Dome"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 2.352222,48.856614 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"20.12.2010",
+        "city":"Paris",
+        "room":"Bercy Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 2.352222,48.856614 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 7 - Europe",
+        "date":"21.12.2010",
+        "city":"Paris",
+        "room":"Bercy Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.422927,39.364283 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"19.02.2011",
+        "city":"Atlantic City",
+        "room":"Boardwalk Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"21.02.2011",
+        "city":"New York",
+        "room":"Madison Square Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.005941,40.712784 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"22.02.2011",
+        "city":"New York",
+        "room":"Madison Square Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -77.036871,38.907192 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"24.02.2011",
+        "city":"Washington D.C",
+        "room":"Verizon Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79.995886,40.440625 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"26.02.2011",
+        "city":"Pittsburgh",
+        "room":"Consol Energy Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -87.629798,41.878114 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"28.02.2011",
+        "city":"Chicago",
+        "room":"United Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -85.668086,42.96336 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"01.03.2011",
+        "city":"Grand Rapids",
+        "room":"Van Andel Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79.383184,43.653226 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"03.03.2011",
+        "city":"Toronto",
+        "room":"Air Canada Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -78.878369,42.886447 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"04.03.2011",
+        "city":"Buffalo",
+        "room":"HSBC Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -75.697193,45.42153 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"06.03.2011",
+        "city":"Ottawa",
+        "room":"Scotiabank Place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -71.05888,42.360082 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"08.03.2011",
+        "city":"Boston",
+        "room":"TD Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -82.998794,39.961176 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"10.03.2011",
+        "city":"Columbus",
+        "room":"Jerome Schottenstein Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -85.758456,38.252665 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"12.03.2011",
+        "city":"Louisville",
+        "room":"KFC Yum! Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -96.796988,32.776664 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"14.03.2011",
+        "city":"Dallas",
+        "room":"American Airlines Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -98.493628,29.424122 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"15.03.2011",
+        "city":"San Antonio",
+        "room":"AT&T Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -95.997988,41.252363 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"17.03.2011",
+        "city":"Omaha",
+        "room":"Qwest Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -111.891047,40.760779 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"19.03.2011",
+        "city":"Salt Lake City",
+        "room":"Energy Solutions Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.271114,37.804364 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"22.03.2011",
+        "city":"Oakland",
+        "room":"Oracle Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -121.4944,38.581572 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"23.03.2011",
+        "city":"Sacramento",
+        "room":"Arco Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -115.13983,36.169941 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"25.03.2011",
+        "city":"Las Vegas",
+        "room":"MGM Grand Garden Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -112.074037,33.448377 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"26.03.2011",
+        "city":"Phoenix",
+        "room":"US Airways Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.2499695,34.04583233 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"28.03.2011",
+        "city":"Los Angeles",
+        "room":"Staples Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -117.1925354,32.71451081 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"29.03.2011",
+        "city":"San Diego",
+        "room":"Viejas Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -117.914504,33.835293 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"31.03.2011",
+        "city":"Anaheim",
+        "room":"Honda Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -95.992775,36.153982 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"04.04.2011",
+        "city":"Tulsa",
+        "room":"BOK Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.743061,30.267153 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"06.04.2011",
+        "city":"Austin",
+        "room":"Frank Erwin Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -95.369803,29.760427 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"08.04.2011",
+        "city":"Houston",
+        "room":"Toyota Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -90.071532,29.951066 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"09.04.2011",
+        "city":"La Nouvelle-Orléans",
+        "room":"New Orleans Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.137317,26.122439 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"12.04.2011",
+        "city":"Fort Lauderdale",
+        "room":"BankAtlantic Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.19179,25.76168 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"13.04.2011",
+        "city":"Miami",
+        "room":"American Airlines Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -81.379237,28.538335 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"15.04.2011",
+        "city":"Orlando",
+        "room":"Amway Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -82.457178,27.950575 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"16.04.2011",
+        "city":"Tampa",
+        "room":"St. Pete Times Forum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -84.387982,33.748995 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"18.04.2011",
+        "city":"Atlanta",
+        "room":"Gwinnett Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.781602,36.162664 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"19.04.2011",
+        "city":"Nashville",
+        "room":"Bridgestone Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.172367,40.735657 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"22.04.2011",
+        "city":"Newark",
+        "room":"Prudential Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.592906,40.700379 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"23.04.2011",
+        "city":"Uniondale",
+        "room":"Nassau Coliseum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.567256,45.501689 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"25.04.2011",
+        "city":"Montréal",
+        "room":"Centre Bell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -81.694361,41.49932 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"27.04.2011",
+        "city":"Cleveland",
+        "room":"Quicken Loans Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -103.349609,20.659699 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"03.05.2011",
+        "city":"Guadalajara",
+        "room":"Stade 3 de marzo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -102.552784,23.634501 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 8 - Amérique du Nord",
+        "date":"05.05.2011",
+        "city":"Mexico",
+        "room":"Foro Sol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 115.857047,-31.953513 ]
+      },
+      "properties": {
+        "tour":"THE MONSTER BALL TOUR",
+        "step":"Étape 3 - Océanie",
+        "date":"01.04.2017",
+        "city":"Perth",
+        "room":"Burswood Dome"
+      }
+    }
+  ]
+}
