@@ -31,6 +31,7 @@ let tooltip = d3.select('body').append("div")
 
 Promise.all([worldMap, jsonData]).then(function(data) {
 
+    // Display world map
     svg.append("g")
         .attr("class", "country")
         .selectAll("path")
@@ -38,13 +39,14 @@ Promise.all([worldMap, jsonData]).then(function(data) {
         .enter().append("path")
         .attr("d", path);
 
-    svg.selectAll(".meteor")
+    // display tour
+    svg.selectAll(".tour")
         .data(data[1].features.filter(function(d) {
             return d.geometry;
         }) )
         .enter().append("circle")
-        .attr("class", "meteor")
-        .attr("cx", (d,i) => {
+        .attr("class", "tour")
+        .attr("cx", (d) => {
             let coords = projection(d.geometry.coordinates);
             return coords[0];
         })
