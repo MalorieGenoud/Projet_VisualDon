@@ -1,25 +1,32 @@
 /*
 // Template HTML 
 */
-body,h1,h2,h3,h4,h5,h6 {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: "Raleway", sans-serif
 }
 
-body, html {
-  height: 100%;
-  line-height: 1.8;
+body,
+html {
+    height: 100%;
+    line-height: 1.8;
 }
 
 /* Full height image header */
 .bgimg-1 {
-  background-position: center;
-  background-size: cover;
-  background-image: url("/thumb-1920-489501.jpg");
-  min-height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url("/thumb-1920-489501.jpg");
+    min-height: 100%;
 }
 
 .w3-bar .w3-button {
-  padding: 16px;
+    padding: 16px;
 }
 
 #cd {
@@ -29,36 +36,34 @@ body, html {
 /*
 //Graph CD  
 */
-#graph-cd {
-    background-color: aqua;
-    min-height: 700px;
-}
 
 .node {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 .node text {
-  font: 0.75rem sans-serif;
+    font: 0.75rem;
 }
 
 .node circle {
     fill: #fff;
-    stroke: steelblue;
-    stroke-width: 3px;
+    stroke: darkred;
+    stroke-width: 2px;
 }
 
-<<<<<<< HEAD
 .node text {
     font: 12px sans-serif;
 }
 
 .link {
     fill: none;
-    stroke: #ccc;
+    stroke: red;
     stroke-width: 2px;
 }
 
+/*
+//Graph map  
+*/
 .country {
     fill: gray;
 }
@@ -81,10 +86,10 @@ body, html {
     text-align: left;
     width: auto;
     height: auto;
-=======
+}
+
 .link {
-  fill: none;
-  stroke: #ccc;
-  stroke-width: 1.5px;
->>>>>>> template + graph cd
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1.5px;
 }

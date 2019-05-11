@@ -2,7 +2,7 @@ const d3 = require('d3');
 import treeData from '../data/cd_ladygaga';
 
 // Set the dimensions and margins of the diagram
-const margin = {top: 20, right: 90, bottom: 30, left: 90},
+const margin = {top: 50, right: 90, bottom: 30, left: 90},
     width = 960 - margin.left - margin.right,
     height = 1000 - margin.top - margin.bottom;
 
@@ -99,7 +99,7 @@ function update(source) {
 
     // Update the node attributes and style
     nodeUpdate.select('circle.node')
-        .attr('r', 10)
+        .attr('r', 5)
         .style("fill", function(d) {
             return d._children ? "lightsteelblue" : "#fff";
         })
