@@ -1,5 +1,5 @@
 ﻿latitude;longitude;tour;step;date;city;room
--6.208763;106.845599;THE BORN THIS WAY BALL;Étape 1 - Asie;03.06.2012;Jakarta;Stade Gelora Bung Karno
+-6.173292;106.841036;THE BORN THIS WAY BALL;Étape 1 - Asie;03.06.2012;Jakarta;Stade Gelora Bung Karno
 41.878114;-87.629798;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;13.02.2013;Chicago;United Center
 41.878114;-87.629798;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;14.02.2013;Chicago;United Center
 42.331427;-83.045754;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;16.02.2013;Détroit;The Palace of Auburn Hills
@@ -10,7 +10,7 @@
 40.712784;-74.005941;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;23.02.2013;New York;Madison Square Garden
 38.907192;-77.036871;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;25.02.2013;Washington D.C;Verizon Center
 42.360082;-71.05888;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;27.02.2013;Boston;TD Garden
-40.793395;-77.860001;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;02.03.2013;State College;Bryce Jordan Center
+52.769796;-2.104524;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;02.03.2013;State College;Bryce Jordan Center
 41.431691;-72.110095;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;03.03.2013;Uncasville;Mohegan Sun Arena
 40.712784;-74.005941;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;06.03.2013;New York;Barclays Center
 40.712784;-74.005941;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;07.03.2013;New York;Barclays Center
@@ -19,7 +19,7 @@
 27.950575;-82.457178;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;13.03.2013;Tampa;Tampa Bay Times Forum
 26.122439;-80.137317;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;15.03.2013;Fort Lauderdale;BB&T Center
 25.76168;-80.19179;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;16.03.2013;Miami;American Airlines Arena
-36.072635;-79.791975;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;18.03.2013;Greensboro;Greensboro Coliseum
+36.0726354;-79.7919754;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;18.03.2013;Greensboro;Greensboro Coliseum
 36.153982;-95.992775;THE BORN THIS WAY BALL;Étape 7 - Amérique du Nord;20.03.2013;Tulsa;BOK Center
 -22.906847;-43.172897;JOANNE WORLD TOUR; Étape 2 - Amérique du Sud;15.09.2017;Rio de Janeiro;Rock in Rio
 51.507351;-0.127758;JOANNE WORLD TOUR;Étape 4 - Europe;04.02.2018;Londres;O2 Arena
@@ -32,3 +32,98 @@
 48.856614;2.352222;JOANNE WORLD TOUR;Étape 4 - Europe;20.02.2018;Paris;AccorHotels Arena
 48.856614;2.352222;JOANNE WORLD TOUR;Étape 4 - Europe;21.02.2018;Paris;AccorHotels Arena
 52.520007;13.404954;JOANNE WORLD TOUR;Étape 4 - Europe;23.02.2018;Berlin;Mercedes Benz Arena
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;

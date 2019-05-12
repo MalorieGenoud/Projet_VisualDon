@@ -25,13 +25,13 @@ et pour les albums
 
 ## Transformation des données et choix des données
 
-En nous basant sur le lien ci-dessus, nous avons repris les données concernants les tournées (date, ville, pays, salle) ainsi que les cds (album, sortie, titre, featuring). Nous avons reporté ces données dans un fichier excel que nous allons convertir en fichier .csv
+En nous basant sur les liens ci-dessus, nous avons repris les données concernants les tournées (date, ville, pays, salle) ainsi que les cds (album, sortie, titre, featuring). Pour récupérer la latitude et la longitude, nous nous sommes basées sur ce [site](https://www.gps-longitude-latitude.net). Afin de gérer au mieux les données des tournées, nous avons créé un fichier **.csv** pour chacune d'elle que nous avons converties en **GeoJSON**. Les données des albums ont été directement converties en **JSON**.
 
 ## Visualisation des données et explication des choix
 
-Pour les données concernant les tournées, nous souhaitons les visualiser sur une carte du monde. Pour cela, nous avons rajouté la latitude et la longitude pour chacun des lieux. Nous pensons qu'il est plus pertinent de montrer les données d'une tournée sur une map du monde, ainsi nous pouvons avoir une idée de la quantité de tournées faites à travers le monde.
+Pour les données concernant les tournées, nous souhaitons les visualiser sur une carte du monde. Pour cela, nous avons rajouté la latitude et la longitude pour chacun des lieux. Nous pensons qu'il est plus pertinent de montrer les données d'une tournée sur une map du monde, ainsi nous pouvons avoir une idée de la quantité de tournées faites à travers le monde. Nous avons décidé de créer un onglet pour chacune des tournées pour rendre la lecture des données plus visible.
 
-Pour représenter les différents CD de Lady Gaga, ainsi que les musiques et les featuring qui les composent, j'ai décidé d'utiliser le graphique nommé "Sequences sunburst". Ce type de graphe permet de représenter des données qui décrivent des séquences d'événements. C'est une représentation originale et intuitive.
+Pour représenter les différents CD de Lady Gaga, ainsi que les musiques et les featuring qui les composentnous avons décidé de partir finalement sur un graphique en arbre. Nous pensions de base partir sur un graphique "sunbrust", mais nous nous sommes rendues compte que cela ne serait pas pertinent et non lisible. Il est possible de déplier et de replier le graphique en arbre pour une meilleure lecture des données.
 
 ## le publique cible
 

@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates":  [ 106.845599,-6.208763 ]
+        "coordinates":  [ 106.841036,-6.173292 ]
       },
       "properties": {
         "tour":"THE BORN THIS WAY BALL",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates":  [ -77.860001,40.793395 ]
+        "coordinates":  [ -2.104524,52.769796 ]
       },
       "properties": {
         "tour":"THE BORN THIS WAY BALL",
@@ -285,7 +285,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates":  [ -79.791975,36.072635 ]
+        "coordinates":  [ -79.7919754,36.0726354 ]
       },
       "properties": {
         "tour":"THE BORN THIS WAY BALL",

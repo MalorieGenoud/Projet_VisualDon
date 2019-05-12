@@ -915,7 +915,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates":  { }
+        "coordinates":  [ -66.032943,18.418003 ]
       },
       "properties": {
         "tour":"THE BORN THIS WAY BALL",
