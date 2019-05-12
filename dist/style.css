@@ -62,8 +62,19 @@ html {
 }
 
 /*
+//Graph sales  
+*/
+.graph-sales {
+    margin-top: 30px;
+}
+
+/*
 //Graph map  
 */
+.liste {
+    list-style: none;
+}
+
 .country {
     fill: gray;
 }

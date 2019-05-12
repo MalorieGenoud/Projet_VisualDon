@@ -1,190 +1,195 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
-          integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 </head>
 
 <body>
-<title>Lady Gaga</title>
+    <title>Lady Gaga</title>
 
 
-<!-- Navbar (sit on top) -->
-<div class="w3-top">
-    <div class="w3-bar w3-white w3-card" id="myNavbar">
-        <!-- Right-sided navbar links -->
-        <div class="w3-right w3-hide-small">
-            <a href="#about" class="w3-bar-item w3-button"><i class="fas fa-info"></i> À PROPOS</a>
-            <a href="#cd" class="w3-bar-item w3-button">
-                <i class="fas fa-compact-disc"></i> CD</a>
-            <a href="#map" class="w3-bar-item w3-button">
-                <i class="fas fa-music"></i> TOURNEES</a>
-        </div>
-        <!-- Hide right-floated links on small screens and replace them with a menu icon -->
+    <!-- Navbar (sit on top) -->
+    <div class="w3-top">
+        <div class="w3-bar w3-white w3-card" id="myNavbar">
+            <!-- Right-sided navbar links -->
+            <div class="w3-right w3-hide-small">
+                <a href="#about" class="w3-bar-item w3-button"><i class="fas fa-info"></i> À PROPOS</a>
+                <a href="#cd" class="w3-bar-item w3-button">
+                    <i class="fas fa-compact-disc"></i> CD</a>
+                <a href="#map" class="w3-bar-item w3-button">
+                    <i class="fas fa-music"></i> TOURNEES</a>
+            </div>
+            <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
-        <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium"
-           onclick="w3_open()">
-            <i class="fa fa-bars"></i>
-        </a>
-    </div>
-</div>
-
-<!-- Sidebar on small screens when clicking the menu icon -->
-<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none"
-     id="mySidebar">
-    <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
-    <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">À PROPOS</a>
-    <a href="#cd" onclick="w3_close()" class="w3-bar-item w3-button">CD</a>
-    <a href="#map" onclick="w3_close()" class="w3-bar-item w3-button">TOURNEES</a>
-</nav>
-
-<!-- Header with full-height image -->
-<header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
-</header>
-
-<!-- About Section -->
-<div class="w3-container" style="padding:128px 16px" id="about">
-    <h3 class="w3-center">A PROPOS DU PROJET</h3>
-    <p class="w3-center w3-large">Cours visualisation de données</p>
-    <div class="w3-row-padding w3-center" style="margin-top:64px">
-        <div class="w3-third">
-            <i class="fas fa-project-diagram w3-margin-bottom w3-jumbo"></i>
-            <p class="w3-large">Le projet</p>
-            <p>Dans le cadre du cours VisualDon, nous avons décidé de réaliser plusieurs graphiques à propos de Lady
-                Gaga. Le but est de représenter visuellement des données brutes.</p>
-        </div>
-        <div class="w3-third">
-            <i class="fa fa-database w3-margin-bottom w3-jumbo"></i>
-            <p class="w3-large">Choix des données</p>
-            <p>Pour nos données, nous nous sommes basées sur différents sites web. Nous avons des données concernant les
-                CD édités ainsi que les tournées</p>
-        </div>
-        <div class="w3-third">
-            <i class="fa fa-users w3-margin-bottom w3-jumbo"></i>
-            <p class="w3-large">Public cible</p>
-            <p>Ces représentations visent principalement des personnes qui s'intéresse et apprécie Lady Gaga.</p>
+            <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+                <i class="fa fa-bars"></i>
+            </a>
         </div>
     </div>
-</div>
 
-<!-- CD Section -->
-<div class="w3-container w3-light-grey" style="padding:128px 16px" id="cd">
-    <div class="w3-row-padding">
-        <div class="w3-col m12">
-            <h3>LES CD</h3>
-            <p>Dans le graphique qui suit, vous pouvez voir les différents CD de Lady Gaga. Vous y trouverez les titres
-                qui compose chaque CD ainsi que les nom des artistes en featuring.</p>
-            <p>Cliquez sur les cercles pour découvrir d'avantage d'informations.</p>
+    <!-- Sidebar on small screens when clicking the menu icon -->
+    <nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
+        <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
+        <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">À PROPOS</a>
+        <a href="#cd" onclick="w3_close()" class="w3-bar-item w3-button">CD</a>
+        <a href="#map" onclick="w3_close()" class="w3-bar-item w3-button">TOURNEES</a>
+    </nav>
+
+    <!-- Header with full-height image -->
+    <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
+    </header>
+
+    <!-- About Section -->
+    <div class="w3-container" style="padding:128px 16px" id="about">
+        <h3 class="w3-center">A PROPOS DU PROJET</h3>
+        <p class="w3-center w3-large">Cours visualisation de données</p>
+        <div class="w3-row-padding w3-center" style="margin-top:64px">
+            <div class="w3-third">
+                <i class="fas fa-project-diagram w3-margin-bottom w3-jumbo"></i>
+                <p class="w3-large">Le projet</p>
+                <p>Dans le cadre du cours VisualDon, nous avons décidé de réaliser plusieurs graphiques à propos de Lady
+                    Gaga. Le but est de représenter visuellement des données brutes.</p>
+            </div>
+            <div class="w3-third">
+                <i class="fa fa-database w3-margin-bottom w3-jumbo"></i>
+                <p class="w3-large">Choix des données</p>
+                <p>Pour nos données, nous nous sommes basées sur différents sites web. Nous avons des données concernant les
+                    CD édités ainsi que les tournées</p>
+            </div>
+            <div class="w3-third">
+                <i class="fa fa-users w3-margin-bottom w3-jumbo"></i>
+                <p class="w3-large">Public cible</p>
+                <p>Ces représentations visent principalement des personnes qui s'intéresse et apprécie Lady Gaga.</p>
+            </div>
         </div>
     </div>
-    <div id="graph-cd"></div>
-</div>
 
-<!-- Map Section -->
-<div class="w3-container w3-light-grey" style="padding:128px 16px" id="cd">
-    <div class="w3-row-padding">
-        <div class="w3-col m12">
-            <h3>LES TOURNEES</h3>
-            <p>En cliquant sur les liens présent ci-dessous, vous pouvez voir sur une map les tournées que Lady Gaga a fait jsuqu'à maintenant</p>
-            <p>Doubble-cliquez sur la map pour zommer. Passez votre souris sur un des points pour plus d'infos.</p>
+    <!-- CD Section -->
+    <div class="w3-container w3-light-grey" style="padding:128px 16px" id="cd">
+        <div class="w3-row-padding">
+            <div class="w3-col m12">
+                <h3>LES CD</h3>
+                <p>Dans le graphique qui suit, vous pouvez voir les différents CD de Lady Gaga. Vous y trouverez les titres
+                    qui compose chaque CD ainsi que les nom des artistes en featuring.</p>
+                <p>Cliquez sur les cercles pour découvrir d'avantage d'informations.</p>
+            </div>
         </div>
-        <nav>
-            <ul>
-                <li>
-                    <a href="#tour1">The Fame Ball Tour</a>
-                </li>
-                <li>
-                    <a href="#tour2">The Monster Ball Tour</a>
-                </li>
-                <li>
-                    <a href="#tour3">The Born This Way Ball Tour</a>
-                </li>
-                <li>
-                    <a href="#tour4">The Artpop Ball Tour</a>
-                </li>
-                <li>
-                    <a href="#tour5">Joanne Ball Tour</a>
-                </li>
-                <li>
-                    <a href="#cancelledTours">Les tournées annulées</a>
-                </li>
-            </ul>
-        </nav>
-        <main>
-            <section id="tour1">
-                <div class="graph-tour1"></div>
-            </section>
-            <section id="tour2">
-                <div class="graph-tour2"></div>
-            </section>
-            <section id="tour3">
-                <div class="graph-tour3"></div>
-            </section>
-            <section id="tour4">
-                <div class="graph-tour4"></div>
-            </section>
-            <section id="tour5">
-                <div class="graph-tour5"></div>
-            </section>
-            <section id="cancelledTours">
-                <div class="graph-cancelled-tours"></div>
-            </section>
-        </main>
+        <div id="graph-cd"></div>
+        <div class="w3-row-padding">
+            <div class="w3-col m12">
+                <h3>LES VENTES D'ALBUMS</h3>
+                <p>Dans le graphique qui suit, vous pouvez voir le nombre de vente pour chaque CD de Lady Gaga.</p>
+            </div>
+        </div>
+        <div class="graph-sales"></div>
     </div>
-</div>
 
-<!-- Statistics Section -->
-<div class="w3-container w3-row w3-center w3-light-grey w3-padding-64">
-    <div class="w3-quarter">
-        <span class="w3-xxlarge">2</span>
-        <br>Personnes sur le projet
+    <!-- Map Section -->
+    <div class="w3-container w3-white" style="padding:128px 16px" id="map">
+        <div class="w3-row-padding">
+            <div class="w3-col m12">
+                <h3 class="w3-center">LES TOURNEES</h3>
+                <p class="w3-center">En cliquant sur les liens présent ci-dessous, vous pouvez voir sur une map les tournées que Lady Gaga a fait jsuqu'à maintenant</p>
+                <p>Doubble-cliquez sur la map pour zommer. Passez votre souris sur un des points pour plus d'infos.</p>
+            </div>
+            <nav class="w3-center">
+                <ul class="liste">
+                    <li>
+                        <a href="#tour1">The Fame Ball Tour</a>
+                    </li>
+                    <li>
+                        <a href="#tour2">The Monster Ball Tour</a>
+                    </li>
+                    <li>
+                        <a href="#tour3">The Born This Way Ball Tour</a>
+                    </li>
+                    <li>
+                        <a href="#tour4">The Artpop Ball Tour</a>
+                    </li>
+                    <li>
+                        <a href="#tour5">Joanne Ball Tour</a>
+                    </li>
+                    <li>
+                        <a href="#cancelledTours">Les tournées annulées</a>
+                    </li>
+                </ul>
+            </nav>
+            <main class="w3-center" style="padding-top: 30px">
+                <section id="tour1">
+                    <div class="graph-tour1"></div>
+                </section>
+                <section id="tour2">
+                    <div class="graph-tour2"></div>
+                </section>
+                <section id="tour3">
+                    <div class="graph-tour3"></div>
+                </section>
+                <section id="tour4">
+                    <div class="graph-tour4"></div>
+                </section>
+                <section id="tour5">
+                    <div class="graph-tour5"></div>
+                </section>
+                <section id="cancelledTours">
+                    <div class="graph-cancelled-tours"></div>
+                </section>
+            </main>
+        </div>
     </div>
-    <div class="w3-quarter">
-        <span class="w3-xxlarge">20h</span>
-        <br>Durée
+
+    <!-- Statistics Section -->
+    <div class="w3-container w3-row w3-center w3-light-grey w3-padding-64">
+        <div class="w3-quarter">
+            <span class="w3-xxlarge">2</span>
+            <br>Personnes
+        </div>
+        <div class="w3-quarter">
+            <span class="w3-xxlarge">26h</span>
+            <br>Durée
+        </div>
+        <div class="w3-quarter">
+            <span class="w3-xxlarge">8</span>
+            <br>Graphiques
+        </div>
+        <div class="w3-quarter">
+            <span class="w3-xxlarge">1100+</span>
+            <br>Lignes de code
+        </div>
     </div>
-    <div class="w3-quarter">
-        <span class="w3-xxlarge">2</span>
-        <br>Graphiques
-    </div>
-    <div class="w3-quarter">
-        <span class="w3-xxlarge">1000+</span>
-        <br>Lignes de code
-    </div>
-</div>
 
 
-<!-- Footer -->
-<footer class="w3-center w3-dark-grey w3-padding-64">
-    <a href="#home" class="w3-button w3-white "><i class="fa fa-arrow-up w3-margin-right"></i>Revenir vers le haut</a>
+    <!-- Footer -->
+    <footer class="w3-center w3-dark-grey w3-padding-64">
+        <a href="#home" class="w3-button w3-white "><i class="fa fa-arrow-up w3-margin-right"></i>Revenir vers le haut</a>
 
-    <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank"
-                     class="w3-hover-text-green">w3.css</a></p>
-</footer>
+        <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+    </footer>
 
-<script>
-    // Toggle between showing and hiding the sidebar when clicking the menu icon
-    var mySidebar = document.getElementById("mySidebar");
+    <script>
+        // Toggle between showing and hiding the sidebar when clicking the menu icon
+        var mySidebar = document.getElementById("mySidebar");
 
-    function w3_open() {
-        if (mySidebar.style.display === 'block') {
-            mySidebar.style.display = 'none';
-        } else {
-            mySidebar.style.display = 'block';
+        function w3_open() {
+            if (mySidebar.style.display === 'block') {
+                mySidebar.style.display = 'none';
+            } else {
+                mySidebar.style.display = 'block';
+            }
         }
-    }
 
-    // Close the sidebar with the close button
-    function w3_close() {
-        mySidebar.style.display = "none";
-    }
-</script>
-<script src="bundle.js"></script>
+        // Close the sidebar with the close button
+        function w3_close() {
+            mySidebar.style.display = "none";
+        }
+
+    </script>
+    <script src="bundle.js"></script>
 
 </body>
 

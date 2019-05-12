@@ -2,7 +2,7 @@ $(window).on("popstate", evt => {
     let hash = window.location.hash;
     let page = $(hash);
     if (page.length === 0) {
-        hash = "#tour1";
+        hash = "tour1";
         page = $(hash);
         window.location.hash = hash;
     }
