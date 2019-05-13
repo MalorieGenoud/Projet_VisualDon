@@ -35,6 +35,6 @@ Pour représenter les différents albums de Lady Gaga, ainsi que les musiques et
 
 Pour les données de la ventes de ses albums, nous avons décidé de partir sur un graphique "donut". Nous pensons que ce graphique est pertinent pour afficher ce type de données. Lorsque la souris est sur une partie du donut, il est possible de voir le nom de l'album ainsi que le nombre de ventes pour chaque album.
 
-## le public cible
+## Le public cible
 
 Pour le public cible, nous nous sommes orientées vers des personnes qui s'intéressent et apprécient l'artiste et qu'ils puissent avoir une idée des tournées qui ont été faites jusqu'à maintenant et avoir une idée globale des albums qu'elle a fait, de ses titres ainsi que de ses ventes.
