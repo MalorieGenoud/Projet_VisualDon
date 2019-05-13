@@ -75,10 +75,6 @@ html {
     list-style: none;
 }
 
-li{
-    display:inline;
-}
-
 .country {
     fill: #d3d3d3;
 }
