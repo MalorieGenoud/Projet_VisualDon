@@ -11,7 +11,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"12.03.2009",
-        "country":"San Diego",
+        "city":"San Diego",
         "room":"House of Blues"
       }
     },
@@ -25,7 +25,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"13.03.2009",
-        "country":"Los Angeles",
+        "city":"Los Angeles",
         "room":"Wiltern Theatre"
       }
     },
@@ -39,7 +39,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"14.03.2009",
-        "country":"San Francisco",
+        "city":"San Francisco",
         "room":"Mezzanine"
       }
     },
@@ -53,7 +53,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"16.03.2009",
-        "country":"Seattle",
+        "city":"Seattle",
         "room":"Showbox at the Winnet"
       }
     },
@@ -67,7 +67,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"17.03.2009",
-        "country":"Portland",
+        "city":"Portland",
         "room":"Wonder Ballroom"
       }
     },
@@ -81,7 +81,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"18.03.2009",
-        "country":"Vancouver",
+        "city":"Vancouver",
         "room":"Commodore Ballroom"
       }
     },
@@ -95,7 +95,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"21.03.2009",
-        "country":"Denver",
+        "city":"Denver",
         "room":"Gothic Theater"
       }
     },
@@ -109,7 +109,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"23.03.2009",
-        "country":"Minneapolis",
+        "city":"Minneapolis",
         "room":"Fine Line Music Cafe"
       }
     },
@@ -123,7 +123,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"24.03.2009",
-        "country":"Chicago",
+        "city":"Chicago",
         "room":"House of Blues"
       }
     },
@@ -137,7 +137,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"25.03.2009",
-        "country":"Royal Oak",
+        "city":"Royal Oak",
         "room":"Royal Oak Music Theatre"
       }
     },
@@ -151,7 +151,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"26.03.2009",
-        "country":"Kitchener",
+        "city":"Kitchener",
         "room":"Elements Nightclub"
       }
     },
@@ -165,7 +165,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"27.03.2009",
-        "country":"Ottawa",
+        "city":"Ottawa",
         "room":"Bronson Centre"
       }
     },
@@ -179,7 +179,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"28.03.2009",
-        "country":"Montréal",
+        "city":"Montréal",
         "room":"Metropolis"
       }
     },
@@ -193,7 +193,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"30.03.2009",
-        "country":"Boston",
+        "city":"Boston",
         "room":"House of Blues"
       }
     },
@@ -207,7 +207,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"04.04.2009",
-        "country":"Palm Springs",
+        "city":"Palm Springs",
         "room":"Oasis Hall"
       }
     },
@@ -221,7 +221,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"06.04.2009",
-        "country":"Orlando",
+        "city":"Orlando",
         "room":"House of Blues"
       }
     },
@@ -235,7 +235,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"07.04.2009",
-        "country":"Tampa",
+        "city":"Tampa",
         "room":"The Ritz Ybor"
       }
     },
@@ -249,7 +249,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"08.04.2009",
-        "country":"Fort Lauderdale",
+        "city":"Fort Lauderdale",
         "room":"Revolution"
       }
     },
@@ -263,7 +263,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"09.04.2009",
-        "country":"Atlanta",
+        "city":"Atlanta",
         "room":"Center Stage"
       }
     },
@@ -277,7 +277,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 1 - Amérique du Nord",
         "date":"11.04.2009",
-        "country":"Palm Springs",
+        "city":"Palm Springs",
         "room":"Palm Springs Convention Center[A]"
       }
     },
@@ -291,7 +291,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 2 - Europe\n",
         "date":"24.04.2009",
-        "country":"Madrid",
+        "city":"Madrid",
         "room":"La Cubierta"
       }
     },
@@ -305,7 +305,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 2 - Europe\n",
         "date":"25.04.2009",
-        "country":"Moscou",
+        "city":"Moscou",
         "room":"Famous Club"
       }
     },
@@ -319,7 +319,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 2 - Europe\n",
         "date":"28.04.2009",
-        "country":"Stuttgart",
+        "city":"Stuttgart",
         "room":"Club Zapata"
       }
     },
@@ -333,7 +333,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 3 - Amérique du Nord",
         "date":"01.05.2009",
-        "country":"Philadelphie",
+        "city":"Philadelphie",
         "room":"Electric Factory"
       }
     },
@@ -347,7 +347,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 3 - Amérique du Nord",
         "date":"02.05.2009",
-        "country":"New York",
+        "city":"New York",
         "room":"Terminal 5"
       }
     },
@@ -361,7 +361,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 3 - Amérique du Nord",
         "date":"03.05.2009",
-        "country":"Agawam",
+        "city":"Agawam",
         "room":"Northern Star Arena"
       }
     },
@@ -375,7 +375,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 3 - Amérique du Nord",
         "date":"04.05.2009",
-        "country":"Boston",
+        "city":"Boston",
         "room":"House of Blues"
       }
     },
@@ -389,7 +389,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 3 - Amérique du Nord",
         "date":"06.05.2009",
-        "country":"Austin",
+        "city":"Austin",
         "room":"Austin Music Hall"
       }
     },
@@ -403,7 +403,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 3 - Amérique du Nord",
         "date":"08.05.2009",
-        "country":"Chula Vista",
+        "city":"Chula Vista",
         "room":"Cricket Wireless Amphitheatre"
       }
     },
@@ -417,7 +417,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 3 - Amérique du Nord",
         "date":"09.05.2009",
-        "country":"Irvine",
+        "city":"Irvine",
         "room":"Verizon Wireless Amphitheatre"
       }
     },
@@ -431,7 +431,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 3 - Amérique du Nord",
         "date":"10.05.2009",
-        "country":"West Sacramento",
+        "city":"West Sacramento",
         "room":"Raley Field"
       }
     },
@@ -445,7 +445,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 4 - Océanie",
         "date":"16.05.2009",
-        "country":"Auckland",
+        "city":"Auckland",
         "room":"Vector Arena"
       }
     },
@@ -459,7 +459,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 4 - Océanie",
         "date":"19.05.2009",
-        "country":"Brisbane",
+        "city":"Brisbane",
         "room":"Entertainment Centre"
       }
     },
@@ -473,7 +473,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 4 - Océanie",
         "date":"21.05.2009",
-        "country":"Newcastle",
+        "city":"Newcastle",
         "room":"Entertainment Centre"
       }
     },
@@ -487,7 +487,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 4 - Océanie",
         "date":"22.05.2009",
-        "country":"Sydney",
+        "city":"Sydney",
         "room":"Acer Arena"
       }
     },
@@ -501,7 +501,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 4 - Océanie",
         "date":"23.05.2009",
-        "country":"Sydney",
+        "city":"Sydney",
         "room":"Acer Arena"
       }
     },
@@ -515,7 +515,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 4 - Océanie",
         "date":"25.05.2009",
-        "country":"Sydney",
+        "city":"Sydney",
         "room":"Paddington Uniting Church"
       }
     },
@@ -529,7 +529,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 4 - Océanie",
         "date":"26.05.2009",
-        "country":"Melbourne",
+        "city":"Melbourne",
         "room":"Rod Laver Arena"
       }
     },
@@ -543,7 +543,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 4 - Océanie",
         "date":"27.05.2009",
-        "country":"Melbourne",
+        "city":"Melbourne",
         "room":"Rod Laver Arena"
       }
     },
@@ -557,7 +557,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 4 - Océanie",
         "date":"28.05.2009",
-        "country":"Adélaïde",
+        "city":"Adélaïde",
         "room":"Adelaide Entertainment Centre"
       }
     },
@@ -571,7 +571,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 4 - Océanie",
         "date":"30.05.2009",
-        "country":"Perth",
+        "city":"Perth",
         "room":"Burswood Dome"
       }
     },
@@ -585,7 +585,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 5 - Asie",
         "date":"08.06.2009",
-        "country":"Tokyo",
+        "city":"Tokyo",
         "room":"Shibuya-AX"
       }
     },
@@ -599,7 +599,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 5 - Asie",
         "date":"14.06.2009",
-        "country":"Clarke Quay",
+        "city":"Clarke Quay",
         "room":"The Dome"
       }
     },
@@ -613,7 +613,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 5 - Asie",
         "date":"17.06.2009",
-        "country":"Séoul",
+        "city":"Séoul",
         "room":"Club Answer"
       }
     },
@@ -627,7 +627,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 6 - Amérique du Nord",
         "date":"19.06.2009",
-        "country":"Toronto",
+        "city":"Toronto",
         "room":"Kool Haus"
       }
     },
@@ -641,7 +641,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"26.06.2009",
-        "country":"Pilton",
+        "city":"Pilton",
         "room":"Glastonbury Festival"
       }
     },
@@ -655,7 +655,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"29.06.2009",
-        "country":"Manchester",
+        "city":"Manchester",
         "room":"Manchester Academy"
       }
     },
@@ -669,7 +669,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"01.07.2009",
-        "country":"Cork",
+        "city":"Cork",
         "room":"The Marquee"
       }
     },
@@ -683,7 +683,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"03.07.2009",
-        "country":"Werchter",
+        "city":"Werchter",
         "room":"Rock Werchter Festival"
       }
     },
@@ -697,7 +697,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"04.07.2009",
-        "country":"Londres",
+        "city":"Londres",
         "room":"G-A-Y"
       }
     },
@@ -711,7 +711,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"04.07.2009",
-        "country":"Londres",
+        "city":"Londres",
         "room":"Wembley Stadium"
       }
     },
@@ -725,7 +725,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"05.07.2009",
-        "country":"Londres",
+        "city":"Londres",
         "room":"Wembley Stadium"
       }
     },
@@ -739,7 +739,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"08.07.2009",
-        "country":"La Valette",
+        "city":"La Valette",
         "room":"Fosos Square"
       }
     },
@@ -753,7 +753,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"09.07.2009",
-        "country":"Paris",
+        "city":"Paris",
         "room":"L'Olympia"
       }
     },
@@ -767,7 +767,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"11.07.2009",
-        "country":"Kinross",
+        "city":"Kinross",
         "room":"T in the Park Festival"
       }
     },
@@ -781,7 +781,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"12.07.2009",
-        "country":"Naas",
+        "city":"Naas",
         "room":"Oxegen Festival"
       }
     },
@@ -795,7 +795,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"13.07.2009",
-        "country":"Manchester",
+        "city":"Manchester",
         "room":"Manchester Apollo"
       }
     },
@@ -809,7 +809,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"14.07.2009",
-        "country":"Londres",
+        "city":"Londres",
         "room":"O2 Academy Brixton"
       }
     },
@@ -823,7 +823,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"16.07.2009",
-        "country":"Munich",
+        "city":"Munich",
         "room":"Zenith"
       }
     },
@@ -837,7 +837,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"17.07.2009",
-        "country":"Cologne",
+        "city":"Cologne",
         "room":"Palladium"
       }
     },
@@ -851,7 +851,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"18.07.2009",
-        "country":"Berlin",
+        "city":"Berlin",
         "room":"Columbiahalle"
       }
     },
@@ -865,7 +865,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"20.07.2009",
-        "country":"Amsterdam",
+        "city":"Amsterdam",
         "room":"Melkweg"
       }
     },
@@ -879,7 +879,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"21.07.2009",
-        "country":"Zürich",
+        "city":"Zürich",
         "room":"Maag Event Hall"
       }
     },
@@ -893,7 +893,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"22.07.2009",
-        "country":"Vienne",
+        "city":"Vienne",
         "room":"Gasometer"
       }
     },
@@ -907,7 +907,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"24.07.2009",
-        "country":"Ibiza",
+        "city":"Ibiza",
         "room":"Wonderland Eden"
       }
     },
@@ -921,7 +921,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"25.07.2009",
-        "country":"Amsterdam",
+        "city":"Amsterdam",
         "room":"Paradiso"
       }
     },
@@ -935,7 +935,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"26.07.2009",
-        "country":"Hambourg",
+        "city":"Hambourg",
         "room":"Stadtpark Freilichtbühne"
       }
     },
@@ -949,7 +949,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"28.07.2009",
-        "country":"Helsinki",
+        "city":"Helsinki",
         "room":"Kulttuuritalo"
       }
     },
@@ -963,7 +963,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"30.07.2009",
-        "country":"Oslo",
+        "city":"Oslo",
         "room":"Sentrum Scene"
       }
     },
@@ -977,7 +977,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"31.07.2009",
-        "country":"Copenhague",
+        "city":"Copenhague",
         "room":"K.B. Hallen"
       }
     },
@@ -991,7 +991,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"01.08.2009",
-        "country":"Östersund",
+        "city":"Östersund",
         "room":"Storsjöyran"
       }
     },
@@ -1005,7 +1005,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 7 - Europe",
         "date":"02.08.2009",
-        "country":"Stockholm",
+        "city":"Stockholm",
         "room":"Gröna Lund"
       }
     },
@@ -1019,7 +1019,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 8 - Asie",
         "date":"07.08.2009",
-        "country":"Osaka",
+        "city":"Osaka",
         "room":"Summer Sonic Festival"
       }
     },
@@ -1033,7 +1033,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 8 - Asie",
         "date":"08.08.2009",
-        "country":"Chiba",
+        "city":"Chiba",
         "room":"Summer Sonic Festival"
       }
     },
@@ -1047,7 +1047,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 8 - Asie",
         "date":"09.08.2009",
-        "country":"Séoul",
+        "city":"Séoul",
         "room":"Olympic Gymnastics Arena"
       }
     },
@@ -1061,7 +1061,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 8 - Asie",
         "date":"11.08.2009",
-        "country":"Quezon City",
+        "city":"Quezon City",
         "room":"Araneta Coliseum"
       }
     },
@@ -1075,7 +1075,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 8 - Asie",
         "date":"12.08.2009",
-        "country":"Singapour",
+        "city":"Singapour",
         "room":"Fort Canning Park"
       }
     },
@@ -1089,7 +1089,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 8 - Asie",
         "date":"15.08.2009",
-        "country":"Cotai Strip",
+        "city":"Cotai Strip",
         "room":"Venetian Arena"
       }
     },
@@ -1103,7 +1103,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 8 - Asie",
         "date":"19.08.2009",
-        "country":"Tel Aviv",
+        "city":"Tel Aviv",
         "room":"Trade Fairs & Convention Center"
       }
     },
@@ -1117,7 +1117,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 9 - Europe",
         "date":"22.08.2009",
-        "country":"Staffordshire",
+        "city":"Staffordshire",
         "room":"Weston Park"
       }
     },
@@ -1131,7 +1131,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 9 - Europe",
         "date":"23.08.2009",
-        "country":"Chelmsford",
+        "city":"Chelmsford",
         "room":"V fest"
       }
     },
@@ -1145,7 +1145,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 10 - Amérique du Nord",
         "date":"28.09.2009",
-        "country":"Richmond",
+        "city":"Richmond",
         "room":"Landmark Theater"
       }
     },
@@ -1159,7 +1159,7 @@
         "tour":"THE FAME BALL TOUR",
         "step":"Étape 10 - Amérique du Nord",
         "date":"29.09.2009",
-        "country":"Washington D.C",
+        "city":"Washington D.C",
         "room":"DAR Constitution Hall"
       }
     }

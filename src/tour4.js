@@ -73,10 +73,10 @@ Promise.all([worldMap, tour4]).then(function(data) {
             tooltip.transition()
                 .duration(200)
                 .style("opacity", .9);
-            tooltip.html('Name: ' + d.properties.name + '<br/>' +
-                'Year: ' + d.properties.year.substring(0,4) + '<br/>' +
-                'Mass: ' + d.properties.mass + '<br/>' +
-                'Class: ' + d.properties.recclass)
+            tooltip.html('Étape: ' + d.properties.step + '<br/>' +
+                'Date: ' + d.properties.date + '<br/>' +
+                'Ville: ' + d.properties.city + '<br/>' +
+                'Salle: ' + d.properties.room)
                 .style("left", (d3.event.pageX) + "px")
                 .style("top", (d3.event.pageY - 28) + "px");
         })
