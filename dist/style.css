@@ -75,12 +75,12 @@ html {
     list-style: none;
 }
 
-.country {
-    fill: gray;
+li{
+    display:inline;
 }
 
-.meteor {
-    fill: black;
+.country {
+    fill: #d3d3d3;
 }
 
 .tooltip {
