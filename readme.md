@@ -29,10 +29,12 @@ En nous basant sur les liens ci-dessus, nous avons repris les données concernan
 
 ## Visualisation des données et explication des choix
 
-Pour les données concernant les tournées, nous souhaitons les visualiser sur une carte du monde. Pour cela, nous avons rajouté la latitude et la longitude pour chacun des lieux. Nous pensons qu'il est plus pertinent de montrer les données d'une tournée sur une map du monde, ainsi nous pouvons avoir une idée de la quantité de tournées faites à travers le monde. Nous avons décidé de créer un onglet pour chacune des tournées pour rendre la lecture des données plus visible.
+Pour les données concernant les tournées, nous souhaitons les visualiser sur une carte du monde. Pour cela, nous avons rajouté la latitude et la longitude pour chacun des lieux. Nous pensons qu'il est plus pertinent de montrer les données d'une tournée sur une map du monde, ainsi nous pouvons avoir une idée de la quantité de tournées faites à travers le monde. Nous avons décidé de créer un onglet pour chacune des tournées pour rendre la lecture des données plus visible en plus d'une possibilité de zommer sur la map.
 
-Pour représenter les différents CD de Lady Gaga, ainsi que les musiques et les featuring qui les composentnous avons décidé de partir finalement sur un graphique en arbre. Nous pensions de base partir sur un graphique "sunbrust", mais nous nous sommes rendues compte que cela ne serait pas pertinent et non lisible. Il est possible de déplier et de replier le graphique en arbre pour une meilleure lecture des données.
+Pour représenter les différents albums de Lady Gaga, ainsi que les musiques et les featuring qui les composent, nous avons décidé de partir finalement sur un graphique en arbre. Nous pensions de base partir sur un graphique "sunbrust", mais nous nous sommes rendues compte que cela ne serait pas pertinent et non lisible. Il est possible de déplier et de replier le graphique en arbre pour une meilleure lecture des données.
+
+Pour les données de la ventes de ses albums, nous avons décidé de partir sur un graphique "donut". Nous pensons que ce graphique est pertinent pour afficher ce type de données. Lorsque la souris est sur une partie du donut, il est possible de voir le nom de l'album ainsi que le nombre de ventes pour chaque album.
 
 ## le publique cible
 
-Pour le publique cible, nous nous sommes orientées vers des personnes qui s'intéresse et apprécie l'artiste et qu'ils puissent avoir une idée des tournées qui ont été faites jusqu'à maintenant.
+Pour le publique cible, nous nous sommes orientées vers des personnes qui s'intéresse et apprécie l'artiste et qu'ils puissent avoir une idée des tournées qui ont été faites jusqu'à maintenant et avoir une idée global des albums qu'elle a fait, de ses titres ainsi que de ses ventes.
